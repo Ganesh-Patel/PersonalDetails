@@ -1,1 +1,1 @@
-sample Readme file 
+Hosted Link-: https://ganesh-patel.github.io/PersonalDetails/
